@@ -1,3 +1,4 @@
 .env
 venv/
 aws/
+app/__pycache__/
