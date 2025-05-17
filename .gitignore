@@ -1,4 +1,10 @@
+# Env files and environment
 .env
 venv/
+
+# AWS folder
 aws/
-app/__pycache__/
+
+# Python Cache
+**/__pycache__/
+**/*.pyc
